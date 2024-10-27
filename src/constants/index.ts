@@ -215,7 +215,7 @@ export const FOOTER = {
     {
       name: "Rent",
       links: [
-        { title: "Search Rental Properties", url: "#" },
+        { title: "Explore Rental Pictures", url: "#featured" },
       ],
     },
   ],
